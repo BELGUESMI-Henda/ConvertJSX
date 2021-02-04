@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(73, 160, 102);
+
+}
+.img{
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.title{
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-left: 40%;
+
+}
+.containerTwo{
+    flex-direction: column;
+} 
+.video{
+    margin-top: 50px ;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    width: 500px;
+    height: 500px;
+}
+
